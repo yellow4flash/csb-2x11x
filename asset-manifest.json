@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yellow4flash.github.io/csb-2x11x/static/css/main.c6d18b74.chunk.css",
+    "main.js": "https://yellow4flash.github.io/csb-2x11x/static/js/main.a1550ce0.chunk.js",
+    "main.js.map": "https://yellow4flash.github.io/csb-2x11x/static/js/main.a1550ce0.chunk.js.map",
+    "runtime-main.js": "https://yellow4flash.github.io/csb-2x11x/static/js/runtime-main.954b5050.js",
+    "runtime-main.js.map": "https://yellow4flash.github.io/csb-2x11x/static/js/runtime-main.954b5050.js.map",
+    "static/js/2.df83d6a1.chunk.js": "https://yellow4flash.github.io/csb-2x11x/static/js/2.df83d6a1.chunk.js",
+    "static/js/2.df83d6a1.chunk.js.map": "https://yellow4flash.github.io/csb-2x11x/static/js/2.df83d6a1.chunk.js.map",
+    "index.html": "https://yellow4flash.github.io/csb-2x11x/index.html",
+    "static/css/main.c6d18b74.chunk.css.map": "https://yellow4flash.github.io/csb-2x11x/static/css/main.c6d18b74.chunk.css.map",
+    "static/js/2.df83d6a1.chunk.js.LICENSE.txt": "https://yellow4flash.github.io/csb-2x11x/static/js/2.df83d6a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.954b5050.js",
+    "static/js/2.df83d6a1.chunk.js",
+    "static/css/main.c6d18b74.chunk.css",
+    "static/js/main.a1550ce0.chunk.js"
+  ]
+}
